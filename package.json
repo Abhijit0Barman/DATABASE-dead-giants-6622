@@ -1,0 +1,26 @@
+{
+  "name": "database-dead-giants-6622",
+  "version": "1.0.0",
+  "description": "database for api for rct101  construct weeks project in render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhijit0Barman/DATABASE-dead-giants-6622.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhijit0Barman/DATABASE-dead-giants-6622/issues"
+  },
+  "homepage": "https://github.com/Abhijit0Barman/DATABASE-dead-giants-6622#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}

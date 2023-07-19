@@ -1,0 +1,139 @@
+{
+    "data": {
+        "livedoctor": [
+            {
+                "image_url": "https://doctor.myupchar.com/6322/test632220180910-17135-1iq6vb9.jpg",
+                "id": 6322,
+                "name": "Dr. Atish Ranjan",
+                "live_status": true,
+                "live_status_text": "Available",
+                "permalink": "https://www.myupchar.com/doctors/patna/kankarbagh/ent/dr-atish-ranjan-6322",
+                "experience": 12,
+                "degree": "MBBS,DM",
+                "speciality": "Emergency Medicine",
+                "gender": "male",
+                "specialist_doctor": true
+            },
+            {
+                "image_url": "https://doctor.myupchar.com/18437/test1843720181129-1175-15cybye.jpg",
+                "id": 18437,
+                "name": "Dr. Vikrant Mittal",
+                "live_status": true,
+                "live_status_text": "Available",
+                "permalink": "https://www.myupchar.com/doctors/rupnagar/chandigarh-sector-59-s-o/ent/dr-vikrant-mittal-18437",
+                "experience": 9,
+                "degree": "MBBS,MS",
+                "speciality": "Infectious Disease",
+                "gender": "male",
+                "specialist_doctor": true
+            },
+            {
+                "image_url": "https://doctor.myupchar.com/112895/20191110_124655.jpg",
+                "id": 112895,
+                "name": "Dr. Anil Gupta",
+                "live_status": false,
+                "live_status_text": "Request a call back",
+                "permalink": "https://www.myupchar.com/doctors/lucknow/aliganj/ent/dr-anil-gupta-112895",
+                "experience": 7,
+                "degree": "MBBS,MS",
+                "speciality": "ENT, Audiology & Speech Pathology",
+                "gender": "male",
+                "specialist_doctor": true
+            },
+            {
+                "image_url": "https://doctor.myupchar.com/113329/IMG-20201204-WA0001.jpg",
+                "id": 113329,
+                "name": "Dr. Navin Shukla",
+                "live_status": false,
+                "live_status_text": "Request a call back",
+                "permalink": "https://www.myupchar.com/doctors/gwalior/moti-mahal-s-o/ent/dr-navin-shukla-113329",
+                "experience": 14,
+                "degree": "MS",
+                "speciality": "Oral & Maxillofacial Surgery",
+                "gender": "male",
+                "specialist_doctor": true
+            }
+        ],
+        "live_doctor_specialities": [
+            {
+                "id": 1,
+                "name": "Cardiology"
+            },
+            {
+                "id": 2,
+                "name": "Oncology"
+            },
+            {
+                "id": 3,
+                "name": "Neurology"
+            },
+            {
+                "id": 4,
+                "name": "Orthopedics"
+            },
+            {
+                "id": 7,
+                "name": "ENT"
+            },
+            {
+                "id": 8,
+                "name": "Urology"
+            },
+            {
+                "id": 9,
+                "name": "Ophthalmology"
+            },
+            {
+                "id": 10,
+                "name": "Pediatrics"
+            },
+            {
+                "id": 11,
+                "name": "Dermatology"
+            },
+            {
+                "id": 12,
+                "name": "Psychiatry"
+            },
+            {
+                "id": 13,
+                "name": "Dentistry"
+            },
+            {
+                "id": 18,
+                "name": "General Surgery"
+            },
+            {
+                "id": 25,
+                "name": "General Physician"
+            },
+            {
+                "id": 26,
+                "name": "Ayurveda"
+            },
+            {
+                "id": 27,
+                "name": "Homeopathy"
+            },
+            {
+                "id": 30,
+                "name": "Dietician"
+            },
+            {
+                "id": 45,
+                "name": "Internal Medicine"
+            },
+            {
+                "id": 47,
+                "name": "Neurosurgery"
+            },
+            {
+                "id": 66,
+                "name": "Obstetrics & Gynaecology"
+            }
+        ],
+        "user": {
+            "user_id": 117952
+        }
+    }
+}
